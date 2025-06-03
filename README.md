@@ -4,7 +4,7 @@
 <h3><p align="center">Vous pouvez trouver mon CV</p></h3>
 <p align="center">
     <a href="CV.pdf">
-        <h3>ici</h3>
+        ici
     </a>
 </p>  
 <br>
