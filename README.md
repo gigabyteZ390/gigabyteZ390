@@ -1,18 +1,17 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gigabyteZ390&show_icons=true&border_radius=25&include_all_commits=true&count_private=true">
-</p>
+<h1><p align="center">Mon profil</p></h1>
+<h2><p align="center">Hello, je m'appelle Raphaël et je suis actuellement étudiant à Epitech, je suis à la recherche d’un stage d’une durée de 4 à 6 mois, à partir de juillet, août ou septembre 2025 pour ma 2ème année. Passionné par le pentesting, je serais particulièrement intéressé par toute opportunité d’améliorer mes compétences techniques autour de ce domaine.</p></h2>
 
-<h2><p align="center">LINKEDIN</p></h2>
+<h3><p align="center">LINKEDIN</p></h3>
 <p align="center">
     <a href="linkedin.com/in/raphael-varichon-dupre">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 
-<h3><p align="center">CV</p></h3>
+<h3><p align="center">You can find my CV here / Vous pouvez trouver mon CV ici</p></h3>
 <p align="center">
     <a href="CV.pdf">
-        You can find my CV here / Vous pouvez trouver mon CV ici
+        CV
     </a>
 </p>
 
@@ -52,8 +51,8 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/vmware-000000?style=for-the-badge&logo=vmware&logoColor=white">
-    <img src="https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 <h3><p align="center">Suite office</p></h3>
