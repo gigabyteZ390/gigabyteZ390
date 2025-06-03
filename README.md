@@ -1,10 +1,10 @@
 <h2><p align="center">A propos de moi</p></h2>
 <h3><p align="center">Hello, je m'appelle Raphaël et je suis actuellement étudiant à Epitech, je suis à la recherche d’un stage d’une durée de 4 à 6 mois, à partir de juillet, août ou septembre 2025 pour ma 2ème année. Passionné par le pentesting, je serais particulièrement intéressé par toute opportunité d’améliorer mes compétences techniques autour de ce domaine.</p></h3>  
 
-<h3><p align="center">Vous pouvez trouver mon CV ici</p></h3>
+<h3><p align="center">Vous pouvez trouver mon CV</p></h3>
 <p align="center">
     <a href="CV.pdf">
-        ici
+        <h3>ici</h3>
     </a>
 </p>  
 <br>
