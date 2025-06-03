@@ -7,6 +7,8 @@
         CV
     </a>
 </p>  
+<br>
+<br>
 
 <h3><p align="center">Linkedin</p></h3>
 <p align="center">
@@ -19,6 +21,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/rust-FA3C00?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E">    
