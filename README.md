@@ -1,6 +1,6 @@
 <h3><p align="center">Linkedin</p></h3>
 <p align="center">
-    <a href="linkedin.com/in/raphael-varichon-dupre">
+    <a href="https://www.linkedin.com/in/raphael-varichon-dupre/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
